@@ -190,7 +190,7 @@ int main() {
 
     // User input: Location
     int userX, userY;
-    cout << "Enter your location (x, y): ";
+    cout << "Enter your location (x, y):(in the format of x space y) ";
     cin >> userX >> userY;
 
     // User input: Specifications
